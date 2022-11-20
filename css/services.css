@@ -1,0 +1,287 @@
+*{
+    margin: none;
+    padding: none;
+}
+
+h1.salon{
+    font-weight: 900;
+    font-size: 50px;
+}
+span.scolor{
+    color: #a4152d;
+}
+.section.serviceholder{
+    display: flex;
+    justify-content: center;
+}
+.stextholder{
+    display: flex;
+    justify-content: center;
+
+}
+.emptybox{
+    width: 100%;
+    height: 50px;
+}
+.serviceholder{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.servicebox1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/makeup-service.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox2{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/manicure-service.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox3{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/waxing.jpg.png);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox4{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/haircut.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox5{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/Threading.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox6{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/pedicure-service.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox7{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/Massage.jpg.png);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox8{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/facials-service.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox9{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/hair-straightning-service.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox10{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/keratin.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox11{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/colouring.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox12{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/hair-spa.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.fontholder{
+    width: 290px;
+    height: 50px;
+    background: #a4152d;
+    border-radius: 0px 0px 25px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-weight: 800;
+
+}
+h3.makeup{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-weight: 800;
+    color: whitesmoke;
+    margin-bottom: 5px;
+}
+.salonbtn a{
+    width: 150px;
+    height: 50px;
+    background-color: #a4152d;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    border-radius: 25px 25px 25px 25px;
+}
+.salonbtn a:hover{
+    width: 150px;
+    height: 50px;
+    background: none;
+    border-style: solid;
+    color: #a4152d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    border-radius: 25px 25px 25px 25px;
+    cursor: pointer;
+}
+.btnholder{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 30px;
+}
+.servicebox1-1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/Dress.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox2-1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/kidswear.png);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox3-1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/Goun.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox4-1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/blouse.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox5-1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/handwork.jpg);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.servicebox6-1{
+    height: 350px;
+    width: 290px;
+    background-image: url(/images/saree\ kuchu.jpg.png);
+    border-radius: 25px;
+    margin: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+@media only screen and (max-width: 600px){
+    h1.salon{
+        font-weight: 900;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .section.serviceholder{
+        display: flex;
+        justify-content: center;
+    }
+    .stextholder{
+        display: flex;
+        justify-content: center;
+    
+    }
+    .serviceholder{
+        display: grid;
+        align-items: center;
+    }
+}
+
+.cbg1{
+    width: 200%;
+    height: 1080px;
+}
+
